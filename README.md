@@ -9,7 +9,7 @@ for pass the "Databricks Data Engineer Associate"
 - 過去問で出題パターン定着
 
 ## Tasks - Overview
-- 12/3〜12/8：Spark/DataFrame/Deltaの基礎と最適化
-- 12/9〜12/14：Unity Catalog・権限・Workflow、過去問導入
-- 12/15〜12/18：Streamingと過去問演習で弱点抽出
-- 12/19〜12/21：直前対策と反復
+- XX/YY〜XX/YY：Spark/DataFrame/Deltaの基礎と最適化
+- XX/YY〜XX/YY：Unity Catalog・権限・Workflow、過去問導入
+- XX/YY〜XX/YY：Streamingと過去問演習で弱点抽出
+- XX/YY〜XX/YY：直前対策と反復
